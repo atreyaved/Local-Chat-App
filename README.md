@@ -1,7 +1,7 @@
 # Local-Chat-App
 # A chat-app that you can use to talk to your friends on the same wifi as you!
 ### Install the dependencies
-```install python3 and python3-pip with your package manager``
+```install python3 and python3-pip with your package manager
 arch = sudo pacman -S python3 python3-pip
 debian = sudo apt install python3 python3-pip
 And then run : 
